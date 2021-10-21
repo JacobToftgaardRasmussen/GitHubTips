@@ -1,9 +1,10 @@
-//The original file
-//This file contains some lines
-
-function foo(){
-    logic
-    return
+function bar(){
+    businessLogic
+    magicalStuff
+    crazyAlgorithms
+    return()
 }
 
-foo();
+bar();
+
+//This file contains pseudo code
