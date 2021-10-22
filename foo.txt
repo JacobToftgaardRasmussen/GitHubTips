@@ -1,7 +1,6 @@
 function bar(){
-    businessLogic
     magicalStuff
-    crazyAlgorithms
+    AdvancedAlgorithms
     return()
 }
 
